@@ -10,26 +10,24 @@ Essa etapa tem por objetivo testar a instalação do Node.js, Sqlite3, verificar
 2. Baixar e instalar o DB Browser for SQLite: [https://sqlitebrowser.org/](https://sqlitebrowser.org/)
 3. Baixar e instalar o Postman: [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
 4. Baixar e instalar o VS Code:  [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-5. Crie uma conta no brModeloWeb:  [https://www.brmodeloweb.com/lang/pt-br/index.html](https://www.brmodeloweb.com/lang/pt-br/index.html)
+5. Baixar e instalr o DBSchema: [https://dbschema.com/?AFFILIATE=44600]
 6. Abra o "Prompt de Comando" (Windows) no modo administrador ou "Terminal" (Mac) e digite:
-
-   `npm install sqlite3`
-   
+   `npm install sqlite3`   
    `npm install express --save`
 
 7. GitHub:
   
    > \* Baixar e instalar o GitHub Desktop se ainda não a tiver instalada
+   > \* Criar conta pessoal ou entrar na sua conta se já a tiver
 
-   > 1. Clonar este repositório repositório (File-Clone Repository) na sua máquina (aba URL da tela de "Clone Repository") [https://github.com/Intelihub/Tutorial_M2/](https://github.com/Intelihub/Tutorial_M2/) escolhendo um diretório (pasta) do seu computador para que esse repositório do git seja clonado (Ex: C:\MODULO02_TUTORIAL).
+   > 1. Clonar este repositório repositório (File-Clone Repository) na sua máquina (aba URL da tela de "Clone Repository"):
+    [...](..) escolhendo um diretório (pasta) do seu computador para que esse repositório do git seja clonado (Ex: C:\USABILIDADE).
 
-   > \* Criar conta pessoal (com e-mail Inteli) ou entrar na sua conta se já a tiver
-
-   > 2. Fork do repositório Template: [https://github.com/Intelihub/Template_Aluno](https://github.com/Intelihub/Template_Aluno), dando o nome `modulo2`.
+   > 2. Fork do repositório Template: [...](...), dando o seu nome
    
-   > \* Indicamos usar a versão web do Github para fazer a cópia desse diretório do Template que cada aluno deve ter no seu repositório individual (1.acesse o repositório do link supracitado; 2. clique no botão `Fork` ou `Garfo`, se seu Github estiver em português, localizado no canto superior direito da página, logo abaixo da barra de menu do Github; e 3. dê o nome de `modulo 2` para o novo repositório).
+...
 
-   > 3. Clone esse repositório `modulo2` na sua máquina.
+   > 3. C...
 
 
 ### Instruções
